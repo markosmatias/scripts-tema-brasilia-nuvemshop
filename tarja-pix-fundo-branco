@@ -1,13 +1,15 @@
-/* Código 1 */
-img.icon-logo:nth-child(7) {
-	content: url("https://i.ibb.co/k5ZKpF0/pix.jpg");
-}
-
+/* TARJA PIX FUNDO BRANCO */
 img.icon-logo:nth-child(11) {
 	content: url("https://i.ibb.co/k5ZKpF0/pix.jpg");
 }
 
-/* Código 2 */
+/* OUTROS CÓDIGOS QUE ALTERAM A ESTRUTURA */
+<-- CÓDIGO 01 -->
+img.icon-logo:nth-child(7) {
+	content: url("https://i.ibb.co/k5ZKpF0/pix.jpg");
+}
+
+<-- CÓDIGO 02 -->
 img[src*="payment-method-types/pix@2x.png"] {
 content: url("https://i.ibb.co/k5ZKpF0/pix.jpg"); /* selo do pix com fundo branco */
 width: 40px !important;
