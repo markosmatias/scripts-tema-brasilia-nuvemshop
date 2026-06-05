@@ -1,0 +1,14 @@
+body>footer>div.container.footer-main-info.footer-title-toggle>div.footer-contact-info-container.mb-3.mb-md-0>ul>li:nth-child(1)>a {
+visibility: hidden;
+position: relative;
+}
+
+body>footer>div.container.footer-main-info.footer-title-toggle>div.footer-contact-info-container.mb-3.mb-md-0>ul>li:nth-child(1)>a::after {
+content: "(48)99637-9885";
+visibility: visible;
+position: absolute;
+left: 0;
+}
+
+body > footer > div.container.footer-main-info.footer-title-toggle > div.footer-contact-info-container.mb-3.mb-md-0 > ul > li:nth-child(2) > a { display: none;
+}
