@@ -1,3 +1,4 @@
+/*AUMENTA LOGO NO MENU*/
 @media (min-width:768px) {
 	img.logo-img.logo-big.transition-soft {
 		max-width: 150%;
