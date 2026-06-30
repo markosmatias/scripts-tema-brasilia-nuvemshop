@@ -1,0 +1,8 @@
+/* AUMENTAR ÍCONE INSTAGRAM RODAPÉ*/
+
+div.container.footer-main-info.footer-title-toggle>div.footer-contact-info-container.mb-3.mb-md-0>div>a>svg {
+	width: 28px !important;
+	height: 28px !important;
+	display: inline-block !important;
+	vertical-align: middle !important;
+}
