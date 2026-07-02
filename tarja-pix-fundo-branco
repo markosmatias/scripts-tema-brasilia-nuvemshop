@@ -16,3 +16,8 @@ width: 40px !important;
 height: 25px !important;
 object-fit: contain;
 }
+
+<-- CÓDIGO 03 -->
+body > footer > div.container.footer-secondary-info > div.footer-payments-shipping-container.d-md-flex > div > span.d-inline-block.align-middle > img:nth-child(10) {
+background: white;
+}
